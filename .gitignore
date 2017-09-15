@@ -103,3 +103,4 @@ ENV/
 *.zip
 
 .idea
+my_graph
