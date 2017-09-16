@@ -104,3 +104,4 @@ ENV/
 
 .idea
 my_graph
+.ipynb_checkpoints
